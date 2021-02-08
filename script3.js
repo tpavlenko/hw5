@@ -3,7 +3,6 @@
 // Вывести результат математического действия, указанного в переменной znak.
 
 function doMath(x, znak, y) {
-	var znak;
 	switch (znak) {
 		case '+':
 			return x + y;
